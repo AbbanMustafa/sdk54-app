@@ -13,7 +13,7 @@
     },
     "production": {
       "android": {
-        "image": "ubuntu-22.04-jdk-17-ndk-r26b"
+        "resourceClass": "large"
       },
       "autoIncrement": true
     }
